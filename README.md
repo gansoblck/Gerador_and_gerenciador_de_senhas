@@ -14,7 +14,7 @@ Esse **Gerenciador de Senhas** é uma aplicação simples e segura para armazena
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas: `cryptography`, `tkinter`
+- Bibliotecas: `random`, `string` and `os`
 
 ## Instalação
 
