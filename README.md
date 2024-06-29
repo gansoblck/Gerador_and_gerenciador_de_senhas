@@ -20,5 +20,5 @@ Esse **Gerenciador de Senhas** é uma aplicação simples e segura para armazena
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/gansoblck/gerenciador_senhas.git
+   git clone https://github.com/gansoblck/Gerador_and_gerenciador_de_senhas
    cd gerenciador_senhas.py
