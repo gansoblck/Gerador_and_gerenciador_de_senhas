@@ -10,11 +10,20 @@ Esse **Gerenciador de Senhas** é uma aplicação simples e segura para armazena
 - **Geração de Senhas Fortes**: Gere senhas fortes e seguras para suas contas.
 - **Categorias de Senhas**: Organize suas senhas em categorias.
 - **Autenticação**: Proteja o acesso ao gerenciador com autenticação.
+  
+## Funcionalidades da versão turbo
+
+- Adicionar contas manualmente e armazenamento em CSV
+
+- Foi implementada a função de adicionar contas existentes com email e senha
+- Alterado armazenamento de TXT para CSV para melhor organização dos dados
+- Adicionadas pausas após ações para evitar que o programa feche automaticamente
+
 
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas: `random`, `string` and `os`
+- Bibliotecas: `random`, `string`, `os` e `csv`
 
 ## Instalação
 
